@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  font-family: sans-serif;
+}
+#main{
+  background-color: Lightsalmon;
+  text-align: center;
+  margin: 30px auto;
+  padding: 15px;
+  border-radius: 5px;
+  border: 2px solid red;
+}
+#title{
+  margin: auto;
+  font-size: 2em;
+  text-align: center;
+}
+#img-div{
+  background-color: white;
+  border: 2px solid purple;
+  margin: -5px;
+  border-radius: 5px;
+}
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+li{
+  margin: 10px
+}
